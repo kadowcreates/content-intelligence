@@ -1,3 +1,5 @@
+> **Moved.** This skill now lives in [kadowcreates/kadow-mode](https://github.com/kadowcreates/kadow-mode/tree/main/skills/content-intelligence), with the other kadow-mode skills. This repo is archived.
+
 # Content Intelligence
 
 Skill that turns talks, training, webinars, lectures, podcasts, and voice notes into structured insight summaries.
